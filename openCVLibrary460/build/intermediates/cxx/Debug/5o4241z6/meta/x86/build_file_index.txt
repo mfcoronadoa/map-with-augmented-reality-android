@@ -1,0 +1,1 @@
+C:\Users\coron\AndroidStudioProjects\iti27849u3_equipo_02\openCVLibrary460\libcxx_helper\CMakeLists.txt
